@@ -1,0 +1,13 @@
+.navbar{
+    background-color:#AAAAFF;
+}
+body section > div > div{
+    background-color:#FFFFAA;
+    height:1000px;
+}
+body section div{
+    padding:1%;
+}
+body section p{
+    padding:5%;
+}
